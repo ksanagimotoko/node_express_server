@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### index.js
+### app.js
 ```javascript
 const express = require('express');
 const path = require('path');

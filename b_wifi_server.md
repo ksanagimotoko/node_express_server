@@ -1,6 +1,7 @@
 ### 동일한 wifi안에서 제공하기 
 #### app.js 수정하기
-```javasdcript
+
+```javascript
 const express = require('express');
 const path = require('path');
 const os = require('os');
